@@ -1,9 +1,7 @@
 auth_sinatra
 ============
 
-Authentication [from scratch] with Sinatra
-
-Documentation
+== Authentication [from scratch] with Sinatra
 
 This is an authorization test site that I built while learning about Sinatra. I did not tested it and I don't take any responsability about its relaiability. Use with care.
 
